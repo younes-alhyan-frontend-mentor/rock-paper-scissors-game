@@ -16,11 +16,11 @@ This challenge will test your HTML, CSS and JavaScript skills. There's even a Ro
 
 ## 🚀 Live Demo
 
-[View Demo](https://younes-alhyan.github.io/rock-paper-scissors-game/)
+[View Demo](https://younes-alhyan-frontend-mentor.github.io/rock-paper-scissors-game/)
 
 ## 🔎 More
 
-[GitHub Repository](https://github.com/younes-alhyan/frontend-mentor/)
+[GitHub Repository](https://github.com/younes-alhyan-frontend-mentor/frontend-mentor/)
 
 ## 🛠️ Tech Stack
 
@@ -37,8 +37,8 @@ This challenge will test your HTML, CSS and JavaScript skills. There's even a Ro
 
 ## 🏅 Level
 
-![gold star](https://younes-alhyan.github.io/frontend-mentor/assets/star-filled.svg)
-![gold star](https://younes-alhyan.github.io/frontend-mentor/assets/star-filled.svg)
-![gold star](https://younes-alhyan.github.io/frontend-mentor/assets/star-filled.svg)
-![gold star](https://younes-alhyan.github.io/frontend-mentor/assets/star-filled.svg)
-![empty star](https://younes-alhyan.github.io/frontend-mentor/assets/star-outline.svg)
+![gold star](https://younes-alhyan-frontend-mentor.github.io/frontend-mentor/assets/star-filled.svg)
+![gold star](https://younes-alhyan-frontend-mentor.github.io/frontend-mentor/assets/star-filled.svg)
+![gold star](https://younes-alhyan-frontend-mentor.github.io/frontend-mentor/assets/star-filled.svg)
+![gold star](https://younes-alhyan-frontend-mentor.github.io/frontend-mentor/assets/star-filled.svg)
+![empty star](https://younes-alhyan-frontend-mentor.github.io/frontend-mentor/assets/star-outline.svg)
